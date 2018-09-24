@@ -1,5 +1,12 @@
 # 中華電信20180926/27 PyTorch課程筆記
 
+下載本課程的程式碼
+```shell=
+cd ~/workspace
+git clone https://github.com/joshhu/chtpytorch.git
+```
+
+
 ## 帳號：
 ## 密碼：admin12#
 
@@ -47,12 +54,6 @@ pip install torch --upgrade
 建立一個工作目錄
 ```
 mkdir ~/workspace
-```
-
-下載本課程的程式碼
-```shell=
-cd ~/workspace
-git clone 
 ```
 
 檢查pytorch是否安裝成功
