@@ -2,6 +2,7 @@
 
 下載本課程的程式碼
 ```shell=
+mkdir ~/workspace
 cd ~/workspace
 git clone https://github.com/joshhu/chtpytorch.git
 ```
