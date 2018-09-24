@@ -9,9 +9,6 @@ git clone https://github.com/joshhu/chtpytorch.git
 ```
 
 
-## 帳號：
-## 密碼：admin12#
-
 ## 00
 ### 安裝必要的東西
 
