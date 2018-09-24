@@ -1,4 +1,5 @@
 # 中華電信20180926/27 PyTorch課程筆記
+(fork from https://github.com/hunkim/PyTorchZeroToAll)
 
 下載本課程的程式碼
 ```shell=
