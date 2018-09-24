@@ -63,3 +63,10 @@ print(torch.__version__)
 ## Graident Descent
 ## [線上解方程式](https://www.derivative-calculator.net/)
 ## [線上繪圖](https://www.geogebra.org/3d)
+
+## Data Augmentation
+
+###[Data Aug](https://github.com/aleju/imgaug)
+
+## Learning Rate Decay
+###[Learning Rate Decay](https://zhuanlan.zhihu.com/p/32923584)
