@@ -69,7 +69,7 @@ print(torch.__version__)
 
 ## Data Augmentation
 
-###[Data Aug](https://github.com/aleju/imgaug)
+### [Data Aug](https://github.com/aleju/imgaug)
 
 ## Learning Rate Decay
-###[Learning Rate Decay](https://zhuanlan.zhihu.com/p/32923584)
+### [Learning Rate Decay](https://zhuanlan.zhihu.com/p/32923584)
