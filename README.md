@@ -1,4 +1,4 @@
-# 中華電信20180926/27 PyTorch課程筆記
+# 中原大學人工智慧11/17，11/18，12/01課程
 (fork from https://github.com/hunkim/PyTorchZeroToAll)
 
 下載本課程的程式碼
