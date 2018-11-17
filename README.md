@@ -50,7 +50,7 @@ conda create -n py27 python=2.7 anaconda nb_conda
 先切換到Pytorch的環境，並安裝pytorch
 ```shell=
 source activate pytorch
-pip install torch --upgrade
+conda install pytorch-cpu torchvision-cpu -c pytorch
 ```
 
 建立一個工作目錄
