@@ -1,0 +1,6 @@
+model_checkpoint_path: "train_model-9350"
+all_model_checkpoint_paths: "train_model-9150"
+all_model_checkpoint_paths: "train_model-9200"
+all_model_checkpoint_paths: "train_model-9250"
+all_model_checkpoint_paths: "train_model-9300"
+all_model_checkpoint_paths: "train_model-9350"
